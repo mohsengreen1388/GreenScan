@@ -1,2 +1,3 @@
 # GreenScan
-a scan network 
+a scan network
+run python3 main.py -h for help
